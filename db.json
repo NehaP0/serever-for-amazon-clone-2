@@ -540,7 +540,7 @@
             "brand":"PrasKing",
             "description":"Women's Trendy Casual Sneaker Shoes Lightweight Soft & Comfortable with Extra Cushion Lace-Up Shoes for Women's & Girl's",
             "selection3_url":"https://www.amazon.in/PrasKing-Sneaker-Lightweight-Comfortable-Cushion/dp/B0BRT1RTM2/ref=sr_1_32?keywords=shoes+for+women&qid=1680202016&sprefix=shoes+for+women%2Caps%2C307&sr=8-32"
-           , "price":999,
+           , "price":999
         },
             {
                 "id":33,
@@ -549,7 +549,7 @@
             "brand":"Vendoz",
             "description":"Women Casual Shoes",
             "selection3_url":"https://www.amazon.in/Vendoz-Women-Pink-Casual-Shoes/dp/B0B7KTQ6P8/ref=sr_1_33?keywords=shoes+for+women&qid=1680202016&sprefix=shoes+for+women%2Caps%2C307&sr=8-33"
-           ,"price":499,
+           ,"price":499
         },
             {
                 "id":34,
@@ -729,7 +729,7 @@
             "brand":"Vendoz",
             "description":"Women Black Casual Stylish Sneakers",
             "selection3_url":"https://www.amazon.in/Vendoz-Women-Premium-Casual-Sneakers/dp/B08T64R24G/ref=sr_1_52?keywords=shoes+for+women&qid=1680202016&sprefix=shoes+for+women%2Caps%2C307&sr=8-52"
-           , "price":889,
+           , "price":889
         },
             {
                 "id":52,
@@ -2272,7 +2272,7 @@
             "brand":"PrasKing",
             "description":"Women's Trendy Casual Sneaker Shoes Lightweight Soft & Comfortable with Extra Cushion Lace-Up Shoes for Women's & Girl's",
             "selection3_url":"https://www.amazon.in/PrasKing-Sneaker-Lightweight-Comfortable-Cushion/dp/B0BRT1RTM2/ref=sr_1_32?keywords=shoes+for+women&qid=1680202016&sprefix=shoes+for+women%2Caps%2C307&sr=8-32"
-           , "price":999,
+           , "price":999
         },
             {
                 "id":33,
@@ -2281,7 +2281,7 @@
             "brand":"Vendoz",
             "description":"Women Casual Shoes",
             "selection3_url":"https://www.amazon.in/Vendoz-Women-Pink-Casual-Shoes/dp/B0B7KTQ6P8/ref=sr_1_33?keywords=shoes+for+women&qid=1680202016&sprefix=shoes+for+women%2Caps%2C307&sr=8-33"
-           ,"price":499,
+           ,"price":499
         },
             {
                 "id":34,
@@ -2461,7 +2461,7 @@
             "brand":"Vendoz",
             "description":"Women Black Casual Stylish Sneakers",
             "selection3_url":"https://www.amazon.in/Vendoz-Women-Premium-Casual-Sneakers/dp/B08T64R24G/ref=sr_1_52?keywords=shoes+for+women&qid=1680202016&sprefix=shoes+for+women%2Caps%2C307&sr=8-52"
-           , "price":889,
+           , "price":889
         },
             {
                 "id":52,
